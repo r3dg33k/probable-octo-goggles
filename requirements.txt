@@ -1,0 +1,5 @@
+requests>=2.32
+requests-ntlm>=1.3
+requests-kerberos
+beautifulsoup4>=4.12
+colorama>=0.4
