@@ -132,6 +132,6 @@ spartan -u <URL> [options]
 
 ## License
 
-SPartan by SensePost is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Permissions beyond the scope of this license may be available at [https://sensepost.com/contact](https://sensepost.com/contact).
+SPartan by SensePost is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Original project: [https://github.com/sensepost/SPartan](https://github.com/sensepost/SPartan)
